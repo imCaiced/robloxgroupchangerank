@@ -1,0 +1,13 @@
+{
+  "name": "roblox-rank-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
