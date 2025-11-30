@@ -5,7 +5,8 @@
   "type": "module",
   "dependencies": {
     "express": "^4.18.2",
-    "axios": "^1.5.0"
+    "axios": "^1.5.0",
+    "noblox.js": "^6.0.0"
   },
   "scripts": {
     "start": "node index.js"
